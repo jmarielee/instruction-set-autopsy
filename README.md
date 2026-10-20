@@ -145,3 +145,7 @@ OPEN-DEFECTS.md  docs/                           ← what's wrong, and build not
 
 *Built by [Jodi Paige-Lee](https://www.linkedin.com/in/jodipl) for Clief Notes Weekly
 Competition #10.*
+
+---
+
+© 2026 Jodi Paige-Lee / Interstitial Studios. All rights reserved.
